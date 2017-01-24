@@ -5,8 +5,8 @@ Setup:
 - Download SWI-Prolog from here: https://github.com/SWI-Prolog
 - Open SWI-Prolog
 - Load the program:
-    1. `load['~/plannerData.pl'].`
-    2. `load['~/planner.pl'].`
+    1. `consult['~/plannerData.pl'].`
+    2. `consult['~/planner.pl'].`
 
 
 Sample test case:
