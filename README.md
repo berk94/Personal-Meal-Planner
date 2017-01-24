@@ -7,8 +7,8 @@ Setup:
 - Download SWI-Prolog from here: https://github.com/SWI-Prolog
 - Open SWI-Prolog
 - Load the program:
-    1. `consult['~/plannerData.pl'].`
-    2. `consult['~/planner.pl'].`
+    1. `consult['<plannerData.pl_path>'].`
+    2. `consult['<planner.pl_path>'].`
 
 
 Sample test case:
