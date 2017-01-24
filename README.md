@@ -1,6 +1,8 @@
 # Personal-Meal-Planner
 CMPE260_project1_Bogazici_University
 
+Project description here: https://github.com/berk94/Personal-Meal-Planner/blob/master/260Project1_Spring2015.pdf
+
 Setup:
 - Download SWI-Prolog from here: https://github.com/SWI-Prolog
 - Open SWI-Prolog
